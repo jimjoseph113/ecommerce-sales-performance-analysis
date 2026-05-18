@@ -1,60 +1,102 @@
-# ecommerce-sales-performance-analysis
-OVICO E-Commerce Performance Dashboard
+ E-Commerce sales performance Analysis
+
 Project Overview
+This project focuses on analyzing customer retention, sales performance, and profitability within an e-commerce business using Power BI. 
+The dashboard provides interactive insights into customer behavior, regional sales trends, product performance, and overall business growth.
 
-The OVICO E-Commerce Performance Dashboard is an interactive Power BI project designed to analyze business performance across sales, profit, customer retention, product performance, and regional trends.
+The goal of this analysis is to help businesses understand customer retention patterns, identify high-performing products,
+and make data-driven decisions to improve long-term profitability.
 
-This dashboard transforms raw e-commerce data into actionable business insights that support strategic decision-making and operational efficiency.
+
 
 Objectives
-Analyze overall sales and profitability
-Identify top-performing products and categories
-Monitor regional sales performance
-Track customer retention trends
-Compare quantity sold against generated profit
-Provide business recommendations through data storytelling
-Tools & Technologies Used
-Power BI – Data visualization and dashboard creation
-Microsoft Excel – Data cleaning and preprocessing
-DAX (Data Analysis Expressions) – KPI calculations and measures
-Key Performance Indicators (KPIs)
-Total Revenue: $10.67M
-Total Profit: $1.84M
-Total Quantity Sold: 17K
-Profit Margin: 17%
+- Analyze customer retention trends
+- Monitor sales and profit performance
+- Identify top-performing products and categories
+- Compare regional sales performance
+- Evaluate the relationship between quantity sold and profit generated
+- Deliver actionable business insights through interactive visualizations
+
+---
+
+## Tools & Technologies Used
+- Power BI – Dashboard development and visualization
+- Microsoft Excel – Data cleaning and preprocessing
+- DAX (Data Analysis Expressions) – KPI calculations and measures
+
+---
+
+## Key Performance Indicators (KPIs)
+- Total Revenue: $10.67M
+- Total Profit: $1.84M
+- Total Quantity Sold: 17K
+- Profit Margin: 17%
+
+
+
 Dashboard Features
-Executive Overview
-Revenue analysis
-Profit analysis
-Quantity sold tracking
-Profit margin monitoring
-Sales Analysis
-Quarterly sales trend
-Regional sales comparison
-Product performance analysis
-Profitability Insights
-Profit by category
-Quantity vs profit relationship
-Customer retention trend analysis
-Interactive Filters
 
+ Customer Retention Analysis
+- Retention trend monitoring
+- Customer behavior analysis
+- Retention performance over time
+
+ Sales Performance Analysis
+- Quarterly sales trend
+- Regional sales comparison
+- Product sales tracking
+
+ Profitability Insights
+- Profit by product category
+- Quantity vs profit relationship
+- Business performance evaluation
+
+ Interactive Dashboard Filters
 Users can filter dashboard insights by:
+- Region
+- Product Category
+- Year
 
-Region
-Product Category
-Year
-Key Insights
-The business generated over $10M in revenue with a 17% profit margin.
-Electronics contributed the highest profit among all categories.
-The West region recorded the strongest sales performance.
-Certain products achieved high sales quantity but lower profit efficiency.
-Customer retention showed a gradual decline over time, indicating a need for improved customer engagement strategies.
-Business Recommendations
-Focus marketing efforts on high-profit product categories like Electronics.
-Improve retention strategies through customer loyalty programs.
-Optimize low-performing regions with targeted campaigns.
-Monitor products with high quantity but lower profitability to improve pricing and cost efficiency.
+
+
+ Key Insights
+- The business generated over $10M in revenue with a 17% profit margin.
+- Electronics products contributed the highest overall profit.
+- The West region recorded the strongest sales performance.
+- Some products generated high sales volume but lower profitability.
+- Customer retention gradually declined over time, highlighting opportunities for stronger customer engagement strategies.
+
+
+
+ Business Recommendations
+- Improve customer loyalty programs to increase retention rates.
+- Focus marketing efforts on high-performing products and regions.
+- Optimize pricing strategies for low-profit products.
+- Use retention insights to improve customer lifetime value.
+
+
+
+Repository Structure
+
+ecommerce-customer-retention-analysis/
+│
+├── Raw Data/
+├── Cleaned Data/
+├── Power BI Dashboard/
+├── Dashboard Screenshots/
+├── README.md
+└── Insights & Recommendations/
+
+
+Dashboard Preview
+Include screenshots of the Power BI dashboard here.
+
+
 
 Author
-JIM JOSEPH
-Data Analysia|BI & Financial Analysis
+Jim Joseph  
+Data Analysis| BI & Financial Analysis
+
+
+Project Status
+Completed ✔️
